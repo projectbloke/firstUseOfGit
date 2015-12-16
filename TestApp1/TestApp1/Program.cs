@@ -11,6 +11,8 @@ namespace TestApp1
         {
 
             // yay
+
+            // branch1 comment
         }
     }
 }
